@@ -87,8 +87,9 @@ font-family: 'Roboto', sans-serif;
 }
 .information{
     display: flex;
-    height: 500px;
+    height: 358px;
     flex-wrap: wrap;
+    gap: 20px;
  
 
 }
@@ -110,7 +111,7 @@ font-family: 'Roboto', sans-serif;
  flex:1;
  justify-content: space-around;
  height: 100%;
- margin-top: 30px;
+ 
 
 }
 .card{
@@ -120,6 +121,8 @@ font-family: 'Roboto', sans-serif;
 .card-info{
 width: 100px;
 width: 200px;
+font-family: 'Roboto',sans-serif;
+font-weight: 200px;
 
 }
 .card-img{
@@ -131,12 +134,23 @@ width: 200px;
 
 }
 .Cimg3{
-    margin-bottom: ;
+    
 
 }
 .card-head{
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.quote{
+    background-color: #E5E7EB;
+    height:200px;
+    width: 100%;
+    margin-top: 100px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
