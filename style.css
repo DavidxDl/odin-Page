@@ -1,0 +1,142 @@
+body{
+    display:flex;
+    flex-direction: column;
+    margin:0;
+    height: ;
+}
+.header{
+    padding-top: ;
+    display:flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+    color:#f9faf8;
+    font-size: 24px;
+    align-items: center;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+    
+
+
+}
+ul{
+    list-style: none;
+    display:flex;
+    gap:10px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #E5E7EB;
+    
+}
+
+.main{
+    display: flex;
+    background-color: #1f2937;
+    height: 420px;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+
+
+}
+.hero-text{
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+
+
+}
+.hero-header{
+width: 400px;
+height:200px;
+font-size: 48px;
+font-weight: 900;
+color: #F9FAF8;
+font-family: 'Roboto', sans-serif;
+}
+.main-img{
+
+}
+.the-img{
+    width: 500px;
+    height: 250px;
+    
+}
+.subtext{
+    font-size: 18px;
+    color: #E5E7EB;
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+
+}
+.sign-up{
+    background-color: #3882f6;
+    color:#F9FAF8;
+    border: none;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+    font-family:'Roboto', sans-serif;
+    font-weight:900;
+    font-size: 16px;
+}
+.sign-up a{
+    text-decoration: none;
+    color:#F9FAF8;
+}
+.information{
+    display: flex;
+    height: 500px;
+    flex-wrap: wrap;
+ 
+
+}
+.info-title {
+   display: flex;
+   
+   align-items: center;
+   justify-content: center;
+   height:100px;
+   width: 100%;
+   font-size: 36px;
+   font-weight: 900;
+   font-family: 'Roboto', sans-serif;
+   color: #1f2937;
+
+}
+.cards{
+ display: flex;
+ flex:1;
+ justify-content: space-around;
+ height: 100%;
+ margin-top: 30px;
+
+}
+.card{
+    
+
+}
+.card-info{
+width: 100px;
+width: 200px;
+
+}
+.card-img{
+
+    
+}
+.Cimg1{
+    margin-left: 30px;
+
+}
+.Cimg3{
+    margin-bottom: ;
+
+}
+.card-head{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
